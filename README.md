@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Salaheddine Benkhanous</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="login-animation" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="login-animation" width="300" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 - 🔭 I’m currently working on **Card Game App**
 
