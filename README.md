@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Card Game App**
 - 🌱 I'm currently learning **Angular and Aws**
-- 👯 I'm looking to collaborate on **Angular and Spring Boot Project**
+- 👯 I'm looking to collaborate on **Angular and Spring Boot Projects**
 - 💬 Ask me about **Angular, React, Typescript and Java**
 
 <h3 align="left">Connect with me:</h3>
