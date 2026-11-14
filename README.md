@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="300" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 I'm currently working on **Card Game App**
-- 🌱 I'm currently learning **React Js , Typescript and Spring Boot**
-- 👯 I'm looking to collaborate on **Spring Boot Project**
-- 💬 Ask me about **React , Redux Saga , Javascript and Java**
+- 🌱 I'm currently learning **Angular and Aws*
+- 👯 I'm looking to collaborate on ** Angular and Spring Boot Project**
+- 💬 Ask me about **Angular, React, Typescript and Java**
 
 <h3 align="left">Connect with me:</h3>
 
