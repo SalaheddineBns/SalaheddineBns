@@ -54,8 +54,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalaheddineBns&show_icons=true&locale=en&layout=compact" alt="SalaheddineBns" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=SalaheddineBns&layout=compact" alt="Top langages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalaheddineBns&show_icons=true&locale=en" alt="SalaheddineBns" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=SalaheddineBns&show_icons=true" alt="Stats GitHub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalaheddineBns&" alt="SalaheddineBns" /></p>
